@@ -1,7 +1,7 @@
 # AI Car Simulation
 This project is strongly based off of this excellent tutorial from freeCodeCamp below.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WKfGvDjA4jfWzltF/0.jpg)](https://youtu.be/Rs_rAxEsAvI?si=WKfGvDjA4jfWzltF)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Rs_rAxEsAvI?si=WKfGvDjA4jfWzltF/0.jpg)](https://youtu.be/Rs_rAxEsAvI?si=WKfGvDjA4jfWzltF)
 
 # What I Learned
 Throughout coding this project, I learned a great deal about the following.
