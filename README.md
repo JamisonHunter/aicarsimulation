@@ -3,6 +3,10 @@ This project is strongly based off of this excellent tutorial from freeCodeCamp 
 
 [![Video Thumbnail](https://img.youtube.com/vi/Rs_rAxEsAvI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rs_rAxEsAvI)
 
+The link to my version of the project can be found here! 
+
+https://jamisonhunter.github.io/aicarsimulation/
+
 # What I Learned
 Throughout coding this project, I learned a great deal about the following.
 * Object Oriented Programming
